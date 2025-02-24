@@ -1,0 +1,1 @@
+x=int(input("Donner le nombre x : "))
